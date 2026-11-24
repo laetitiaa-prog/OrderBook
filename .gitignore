@@ -1,0 +1,29 @@
+# Visual Studio cache and settings
+.vs/
+*.user
+*.suo
+*.vcxproj.user
+
+# Build output
+x64/
+x86/
+Debug/
+Release/
+[Bb]in/
+[Oo]bj/
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.idb
+*.ipch
+*.log
+*.tlog
+*.pch
+
+# NuGet packages (restored automatically from packages.config)
+packages/
+
+# OS files
+Thumbs.db
+.DS_Store
